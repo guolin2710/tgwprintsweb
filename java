@@ -173,3 +173,5 @@ public class ReferralBot extends TelegramLongPollingBot {
         }
     }
 }
+
+main()
